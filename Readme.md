@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harikrishna C</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishna-28&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishna-28" /> </p>
+<p align="left"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
