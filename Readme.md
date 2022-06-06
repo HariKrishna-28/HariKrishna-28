@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋
  <!-- <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> -->
- , I'm Harikrishna C</h1>
+ , I'm Harikrishna </h1>
 <h3 align="center">A passionate web developer and python programmer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harikrishna-28&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="harikrishna-28" />
